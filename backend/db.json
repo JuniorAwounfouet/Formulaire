@@ -2,163 +2,131 @@
   "questions": [
     {
       "id": "1",
-      "questionLabel": "What is a component in Angular?",
-      "category": "Angular"
+      "questionLabel": "What is a component in Angular?"
     },
     {
       "id": "2",
-      "questionLabel": "Explain the purpose of the NgModule in Angular.",
-      "category": "Angular"
+      "questionLabel": "Explain the purpose of the NgModule in Angular."
     },
     {
       "id": "3",
-      "questionLabel": "How do you create a new Angular application?",
-      "category": "Angular"
+      "questionLabel": "How do you create a new Angular application?"
     },
     {
       "id": "4",
-      "questionLabel": "What is data binding in Angular, and what are the different types of data binding?",
-      "category": "Angular"
+      "questionLabel": "What is data binding in Angular, and what are the different types of data binding?"
     },
     {
       "id": "5",
-      "questionLabel": "Explain the difference between {{}} (interpolation) and [property] (property binding) in Angular templates.",
-      "category": "Angular"
+      "questionLabel": "Explain the difference between {{}} (interpolation) and [property] (property binding) in Angular templates."
     },
     {
       "id": "6",
-      "questionLabel": "What is event binding in Angular, and how is it implemented?",
-      "category": "Angular"
+      "questionLabel": "What is event binding in Angular, and how is it implemented?"
     },
     {
       "id": "7",
-      "questionLabel": "What is Angular CLI, and how do you use it to generate components?",
-      "category": "Angular"
+      "questionLabel": "What is Angular CLI, and how do you use it to generate components?"
     },
     {
       "id": "8",
-      "questionLabel": "What is a directive in Angular? Can you name some built-in directives?",
-      "category": "Angular"
+      "questionLabel": "What is a directive in Angular? Can you name some built-in directives?"
     },
     {
       "id": "9",
-      "questionLabel": "Explain the purpose of the Angular router and how to configure routes in an Angular application.",
-      "category": "Angular"
+      "questionLabel": "Explain the purpose of the Angular router and how to configure routes in an Angular application."
     },
     {
       "id": "10",
-      "questionLabel": "What is dependency injection in Angular, and why is it important?",
-      "category": "Angular"
+      "questionLabel": "What is dependency injection in Angular, and why is it important?"
     },
     {
       "id": "11",
-      "questionLabel": "How do you communicate between parent and child components in Angular?",
-      "category": "Angular"
+      "questionLabel": "How do you communicate between parent and child components in Angular?"
     },
     {
       "id": "12",
-      "questionLabel": "What is a service in Angular, and when should you use it?",
-      "category": "Angular"
+      "questionLabel": "What is a service in Angular, and when should you use it?"
     },
     {
       "id": "13",
-      "questionLabel": "What is the purpose of the ngFor directive in Angular?",
-      "category": "Angular"
+      "questionLabel": "What is the purpose of the ngFor directive in Angular?"
     },
     {
       "id": "14",
-      "questionLabel": "Explain the concept of modules in Angular and their role in organizing an application.",
-      "category": "Angular"
+      "questionLabel": "Explain the concept of modules in Angular and their role in organizing an application."
     },
     {
       "id": "15",
-      "questionLabel": "What is Angular CLI's ng serve command used for?",
-      "category": "Angular"
+      "questionLabel": "What is Angular CLI's ng serve command used for?"
     },
     {
       "id": "16",
-      "questionLabel": "What is Angular's two-way data binding, and how does it work?",
-      "category": "Angular"
+      "questionLabel": "What is Angular's two-way data binding, and how does it work?"
     },
     {
       "id": "17",
-      "questionLabel": "What is Angular's trackBy function, and why is it used with ngFor?",
-      "category": "Angular"
+      "questionLabel": "What is Angular's trackBy function, and why is it used with ngFor?"
     },
     {
       "id": "18",
-      "questionLabel": "How can you handle HTTP requests in Angular?",
-      "category": "Angular"
+      "questionLabel": "How can you handle HTTP requests in Angular?"
     },
     {
       "id": "19",
-      "questionLabel": "What are Angular pipes, and can you give some examples of built-in pipes?",
-      "category": "Angular"
+      "questionLabel": "What are Angular pipes, and can you give some examples of built-in pipes?"
     },
     {
       "id": "20",
-      "questionLabel": "Explain the concept of lazy loading in Angular and when it's beneficial.",
-      "category": "Angular"
+      "questionLabel": "Explain the concept of lazy loading in Angular and when it's beneficial."
     },
         {
       "id": "21",
-      "questionLabel": "What does the <header> element represent in HTML?",
-      "category": "HTML"
+      "questionLabel": "What does the <header> element represent in HTML?"
     },
     {
       "id": "22",
-      "questionLabel": "What is the difference between <div> and <span> in HTML?",
-      "category": "HTML"
+      "questionLabel": "What is the difference between <div> and <span> in HTML?"
     },
     {
       "id": "23",
-      "questionLabel": "How do you create a link in HTML?",
-      "category": "HTML"
+      "questionLabel": "How do you create a link in HTML?"
     },
     {
       "id": "24",
-      "questionLabel": "What is the purpose of the <form> element in HTML?",
-      "category": "HTML"
+      "questionLabel": "What is the purpose of the <form> element in HTML?"
     },
     {
       "id": "25",
-      "questionLabel": "What does the CSS property 'display: flex' do?",
-      "category": "CSS"
+      "questionLabel": "What does the CSS property 'display: flex' do?"
     },
     {
       "id": "26",
-      "questionLabel": "What is the difference between 'relative', 'absolute', and 'fixed' positioning in CSS?",
-      "category": "CSS"
+      "questionLabel": "What is the difference between 'relative', 'absolute', and 'fixed' positioning in CSS?"
     },
     {
       "id": "27",
-      "questionLabel": "How do you apply a class to an element in CSS?",
-      "category": "CSS"
+      "questionLabel": "How do you apply a class to an element in CSS?"
     },
     {
       "id": "28",
-      "questionLabel": "What is the purpose of media queries in CSS?",
-      "category": "CSS"
+      "questionLabel": "What is the purpose of media queries in CSS?"
     },
     {
       "id": "29",
-      "questionLabel": "What is a closure in Javascript?",
-      "category": "Javascript"
+      "questionLabel": "What is a closure in Javascript?"
     },
     {
       "id": "30",
-      "questionLabel": "What is the difference between 'let', 'var', and 'const' in Javascript?",
-      "category": "Javascript"
+      "questionLabel": "What is the difference between 'let', 'var', and 'const' in Javascript?"
     },
     {
       "id": "31",
-      "questionLabel": "How do you create a function in Javascript?",
-      "category": "Javascript"
+      "questionLabel": "How do you create a function in Javascript?"
     },
     {
       "id": "32",
-      "questionLabel": "What is the purpose of the 'this' keyword in Javascript?",
-      "category": "Javascript"
+      "questionLabel": "What is the purpose of the 'this' keyword in Javascript?"
     }
   ],
 "answers": [
@@ -664,22 +632,26 @@
     {
       "id": 1,
       "name": "Angular",
-      "description": "Questions sur le framework Angular."
+      "description": "Questions sur le framework Angular.",
+      "questionIds": ["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20"]
     },
     {
       "id": 2,
       "name": "HTML",
-      "description": "Questions sur HTML."
+      "description": "Questions sur HTML.",
+      "questionIds": ["21","22","23","24"]
     },
     {
       "id": 3,
       "name": "CSS",
-      "description": "Questions sur CSS."
+      "description": "Questions sur CSS.",
+      "questionIds": ["25","26","27","28"]
     },
     {
       "id": 4,
       "name": "Javascript",
-      "description": "Questions sur Javascript."
+      "description": "Questions sur Javascript.",
+      "questionIds": ["29","30","31","32"]
     }
   ]
 }
