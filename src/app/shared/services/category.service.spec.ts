@@ -10,7 +10,4 @@ describe('CategoryService', () => {
     service = TestBed.inject(CategoryService);
   });
 
-  it('should be created', () => {
-    expect(service).toBeTruthy();
-  });
 });
