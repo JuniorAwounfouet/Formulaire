@@ -99,6 +99,66 @@
       "id": "20",
       "questionLabel": "Explain the concept of lazy loading in Angular and when it's beneficial.",
       "category": "Angular"
+    },
+        {
+      "id": "21",
+      "questionLabel": "What does the <header> element represent in HTML?",
+      "category": "HTML"
+    },
+    {
+      "id": "22",
+      "questionLabel": "What is the difference between <div> and <span> in HTML?",
+      "category": "HTML"
+    },
+    {
+      "id": "23",
+      "questionLabel": "How do you create a link in HTML?",
+      "category": "HTML"
+    },
+    {
+      "id": "24",
+      "questionLabel": "What is the purpose of the <form> element in HTML?",
+      "category": "HTML"
+    },
+    {
+      "id": "25",
+      "questionLabel": "What does the CSS property 'display: flex' do?",
+      "category": "CSS"
+    },
+    {
+      "id": "26",
+      "questionLabel": "What is the difference between 'relative', 'absolute', and 'fixed' positioning in CSS?",
+      "category": "CSS"
+    },
+    {
+      "id": "27",
+      "questionLabel": "How do you apply a class to an element in CSS?",
+      "category": "CSS"
+    },
+    {
+      "id": "28",
+      "questionLabel": "What is the purpose of media queries in CSS?",
+      "category": "CSS"
+    },
+    {
+      "id": "29",
+      "questionLabel": "What is a closure in Javascript?",
+      "category": "Javascript"
+    },
+    {
+      "id": "30",
+      "questionLabel": "What is the difference between 'let', 'var', and 'const' in Javascript?",
+      "category": "Javascript"
+    },
+    {
+      "id": "31",
+      "questionLabel": "How do you create a function in Javascript?",
+      "category": "Javascript"
+    },
+    {
+      "id": "32",
+      "questionLabel": "What is the purpose of the 'this' keyword in Javascript?",
+      "category": "Javascript"
     }
   ],
 "answers": [
